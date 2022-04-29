@@ -5,7 +5,7 @@
 
 - Write-up writen by B4ndw1d7h.
 
-------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 - First Task
 	
@@ -36,7 +36,7 @@
 	2. Cyber Range environment will be 
 	   provided by Infosec.
 
-------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 - Prep
 	
@@ -46,8 +46,7 @@
 		1. Metasploit-Framework
 			- Navigation and use
 		2. Nmap
-			- Scan types and 
-			  vulnerability discovery
+			- Scan types and vulnerability discovery
 		3. Nikto
 			- Web Enumeration
 		4. GoBuster
@@ -61,32 +60,23 @@
 		8. Searchspoit
 			- Use
 		9. Linux Privlage Escilation
-			- Techniques and exploit 
-			  discovery
+			- Techniques and exploit discovery
 		10. Windows Privlage Escilation
-			- Techniques and exploit
-			  discovery
+			- Techniques and exploitdiscovery
 		11. Linux System Enumeration
-			- Manual system enumeration 
-			  and automated enumeration
-			  via linpeas.sh
+			- Manual system enumeration, and automated enumeration via linpeas.sh
 		12. Windows System Enumeration
-			- Manual system enumeration
-			  and automated enumeration
-			  via winpeas.exe
+			- Manual system enumeration, and automated enumeration via winpeas.exe
 		13. Network Discovery
 			- Nmap scripts and scans
 		14. Exploitation
-			- Metasploit exploitation 
-			  and delivery methods
+			- Metasploit exploitation and delivery methods
 		15. Resource Gathering
-			- Writeups, cheatsheets, 
-			  and papers of different 
-			  CTFs and CVE discoveries.
+			- Writeups, cheatsheets, and papers of different CTFs and CVE discoveries.
 		16. TryHackMe
 			- For general practice
 
---------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 - CTF Time!!!
 #note
@@ -98,7 +88,8 @@
 			for a 7 day free trial 
 			download their modified kali box
 			start the ctf challenge 1
-		**I unfortunatly didnt get this info until the ctf had started already :( **
+		
+		** I unfortunatly didn't get this info until the ctf had started already :( **
 
 		1st challenge
 			Find authoritative dns on a website:
@@ -218,31 +209,18 @@
 			
 
 
-
-	  
-
-
-	- Task 2
-	  
-	  Tools used:
-	  Autopsy
-	  wireshark
-	  
-	  Firts thing i did was __
+Thank you InfoSec for hosting the CTF please continue hosting this was 100% worth the experience.
+If anyone wants to try this CTF or even the other very informative courses held by InfoSec. 
+Please go to:
+https://www.infosecinstitute.com/
+	For all they provide.
+https://app.infosecinstitute.com/portal/login
+	To sign up for a free 7 day trial to experience what they have to offer
 
 
 
-
-	- Conclusion
-
-
-
-
-
-
-
-
-
+		The CTF, Courses, and Challenges are all Provided by InfoSecInstitute and not me. 
+					Im just a fan of the content :3 
 
 
 
